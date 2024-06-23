@@ -2,7 +2,7 @@
 
 1. Clone the repository:
   `git clone https://github.com/vanbasx/wpdocker-block`
-2. Navigate to the project folder:
+2. Navigate to the work folder:
   `cd wpdocker-block`
 3. Build and Start Containers:
   `docker-compose up -d`
